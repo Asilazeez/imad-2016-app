@@ -20,3 +20,14 @@ body {
     height: 200px;
 }
 
+.container {
+    max-width: 938px;
+    margin: 79px auto;
+    color: grey;
+    font-family: sans-serif;
+    background-color: floralwhite;
+    padding-left: 61px;
+    padding-right: 61px;
+    padding-bottom: 61px;
+    padding-top: 61px;
+}
